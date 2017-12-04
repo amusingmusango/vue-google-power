@@ -102,7 +102,7 @@
     },
     data () {
       return {
-        apiKey: 'AIzaSyC8RYqR23faRWnMujTxfmE8bc92ZnX3SiI',
+        apiKey: '',
         search: '',
         pageToken: '5',
         places: [],
